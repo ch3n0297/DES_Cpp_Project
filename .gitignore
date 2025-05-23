@@ -1,0 +1,27 @@
+# Build artifacts
+build/
+*.o
+*.dSYM/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+*.ini
+
+# Temporary files
+*~
+*.swp
+*.tmp
+
+# Logs
+*.log
+build/
+dist/
+*.AppImage
+*.zip
+*.dmg
+*.exe
+*.app
+*.ini
